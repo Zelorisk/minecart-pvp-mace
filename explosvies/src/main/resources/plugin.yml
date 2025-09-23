@@ -1,0 +1,12 @@
+name: ExplosiveDamage
+version: 2.4.0
+main: com.example.explosivedamage.ExplosiveDamagePlugin
+api-version: 1.21
+author: chris
+description: Sets explosive and mace damage to exactly 4 hearts
+website: https://github.com/example/explosive-damage
+
+permissions:
+  explosivedamage.admin:
+    description: Admin access to explosive damage plugin
+    default: op
