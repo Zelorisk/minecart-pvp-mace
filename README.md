@@ -1,1 +1,1 @@
-so lowkey what you need to do is open up the folder right and like clone the repo i guess but lowkey if you just want the plugin just lowkey download the latest release lowkey on sum slight and nonchalant
+so lowkey what you need to do is open up the folder right and like clone the repo i guess but lowkey if you just want the plugin just lowkey download the latest release lowkey on sum slight and nonchalant and then lowkey what you need to do is add it to your plugins folder slime and then lowkey youre lowkey set bro..
